@@ -1,0 +1,6 @@
+biopython==1.70
+matplotlib==2.1.0
+MDAnalysis==0.16.2
+networkx==2.0
+numpy==1.13.3
+scipy==1.0.0
